@@ -16,6 +16,15 @@
       },
       "hash": "69f779642cd83b6fdbeaab36a918dd77e0b9e4ef"
     },
+    "com.savvy-labs.savvy-sdk": {
+      "version": "https://gitlab.com/savvy-labs/savvy-sdk.git#4.6.2",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {
+        "com.unity.nuget.newtonsoft-json": "3.2.2"
+      },
+      "hash": "abf780abd2223023116112af16222ffba1cde803"
+    },
     "com.unity.addressables": {
       "version": "1.22.3",
       "depth": 1,
@@ -58,6 +67,13 @@
     },
     "com.unity.mathematics": {
       "version": "1.2.6",
+      "depth": 1,
+      "source": "registry",
+      "dependencies": {},
+      "url": "https://packages.unity.com"
+    },
+    "com.unity.nuget.newtonsoft-json": {
+      "version": "3.2.2",
       "depth": 1,
       "source": "registry",
       "dependencies": {},
@@ -134,6 +150,12 @@
         "com.unity.modules.ui": "1.0.0",
         "com.unity.modules.imgui": "1.0.0"
       }
+    },
+    "com.unity.modules.androidjni": {
+      "version": "1.0.0",
+      "depth": 0,
+      "source": "builtin",
+      "dependencies": {}
     },
     "com.unity.modules.animation": {
       "version": "1.0.0",
