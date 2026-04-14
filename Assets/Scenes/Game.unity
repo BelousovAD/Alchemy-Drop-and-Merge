@@ -348,7 +348,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _windowPrefabs:
+  - {fileID: 2314499209354299357, guid: d85a921b4ab93c34485e1c591d16cd46, type: 3}
   - {fileID: 4155917678418167359, guid: d2f693ceca4c30841a7ebf525072ae2d, type: 3}
+  - {fileID: 4904483650953233760, guid: a446403d793ac954b885fea6627caa1c, type: 3}
 --- !u!4 &549632987
 Transform:
   m_ObjectHideFlags: 0
